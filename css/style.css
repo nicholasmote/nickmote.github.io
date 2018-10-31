@@ -1,0 +1,15 @@
+html {
+    background: #4682b4;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+    background:  #FF4500;
+}
+
+table {
+    border: 1px black solid;
+}
+td {
+     border: 1px black solid;
+}
